@@ -29,6 +29,7 @@
     this.validate();
     }
  
+ //awt interface window elements and panels
  private void assembleInterface() {
     JPanel p = new JPanel(new FlowLayout());
     p.add(open);
